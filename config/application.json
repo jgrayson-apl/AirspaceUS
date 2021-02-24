@@ -1,0 +1,30 @@
+{
+  "title": "US Airspace Use",
+  "appid": "",
+  "group": "",
+  "webmap": "",
+  "webscene": "05cf6a0da0d0414eafcfb6cba8f1018c",
+  "portalUrl": "https://www.arcgis.com",
+  "oauthappid": "C4cnzmq1fKDdYXDt",
+  "proxyUrl": "",
+  "units": "dual",
+  "helperServices": {
+    "geometry": {
+      "url": null
+    },
+    "printTask": {
+      "url": null
+    },
+    "elevationSync": {
+      "url": null
+    },
+    "geocode": [
+      {
+        "url": null
+      }
+    ]
+  },
+  "ThemeTextColor": "",
+  "ThemeBackgroundColor": "",
+  "ThemeHighlightColor": ""
+}
